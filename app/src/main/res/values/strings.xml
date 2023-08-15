@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">Wizard101Wiki</string>
+
+    <!--  Activities Strings  -->
+    <string name="pvp">PvP</string>
+    <string name="castle_magic">Castle Magic</string>
+    <string name="crafting">Crafting</string>
+    <string name="fishing">Fishing</string>
+    <string name="gardening">Gardening</string>
+    <string name="jewel_socketing">Jewel Socketing</string>
+    <string name="mini_games">Mini-Games</string>
+    <string name="monstrology">Monstrology</string>
+    <string name="questing">Questing</string>
+    <string name="deckathalons">Deckathalons</string>
+    <string name="housing">Housing</string>
+    <string name="pet_training">Pet Training</string>
+
+    <!--  Locator Table Strings  -->
+    <string name="fish_locator_table">Fish Locator Table</string>
+    <string name="jewel_summary_table">Jewel Summary Table</string>
+    <string name="monstrological_creature_locator_table">Monstrological Creature Locator Table</string>
+    <string name="pet_jewel_summary_table">Pet Jewel Summary Table</string>
+    <string name="pet_locator_table">Pet Locator Table</string>
+
+    <!--  Side Bar Strings  -->
+    <string name="basic_game_info">Basic Game Information</string>
+    <string name="locations">Locations</string>
+    <string name="raids">Raids</string>
+    <string name="creatures">Creatures</string>
+    <string name="npcs">NPCS</string>
+    <string name="quests">Quests</string>
+    <string name="jewels">Jewels</string>
+    <string name="mounts">Mounts</string>
+    <string name="henchmen_minions_polymorphs">Henchmen, Minions, Polymorphs</string>
+
 </resources>
